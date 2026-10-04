@@ -172,7 +172,7 @@ Recruitment-Analytics-Dashboard/
 Open to feedback, collaboration and opportunities. Feel free to connect.
 
 <a href="https://github.com/Inder616"><img src="https://img.shields.io/badge/GitHub-Inder616-181717?style=for-the-badge" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/inder-sinha"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 
 <br>
 
